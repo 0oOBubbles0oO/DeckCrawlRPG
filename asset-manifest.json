@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deckcrawlrpg/static/css/main.9c5c5444.css",
+    "main.js": "/deckcrawlrpg/static/js/main.2f2b3216.js",
+    "static/js/592.00f90724.chunk.js": "/deckcrawlrpg/static/js/592.00f90724.chunk.js",
+    "index.html": "/deckcrawlrpg/index.html",
+    "main.9c5c5444.css.map": "/deckcrawlrpg/static/css/main.9c5c5444.css.map",
+    "main.2f2b3216.js.map": "/deckcrawlrpg/static/js/main.2f2b3216.js.map",
+    "592.00f90724.chunk.js.map": "/deckcrawlrpg/static/js/592.00f90724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5c5444.css",
+    "static/js/main.2f2b3216.js"
+  ]
+}
